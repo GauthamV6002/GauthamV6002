@@ -5,7 +5,8 @@ I'm:
   - 🤖 an ardent deep learning and robotics enthusiast
   - 💻 trying to get into the world of entrepreneurship
   - ⚡ someone who is always dreaming bigger today than I was yesterday
-  Interested? Check out my [profile](https://gauthamv6002.github.io/)!
+
+Interested? Check out my [profile](https://gauthamv6002.github.io/)!
 
 
 
