@@ -1,12 +1,9 @@
 ## Hey there, I'm Gautham!
 
-I'm:
-  - 📚 a 1st year CS student at the [University of British Columbia](https://www.ubc.ca/)
-  - 🤖 an ardent deep learning and robotics enthusiast
-  - 💻 trying to get into the world of entrepreneurship
-  - ⚡ someone who is always dreaming bigger today than I was yesterday
+I'm an engineer at [Toma (YC W24)](https://toma.com/), where I mostly build AI for car dealerships, and occasionally crack jokes and try to get better at smash bros. Outside work, I love building robots and am always up for a badminton rally.
 
-Interested? Check out my [profile](https://gauthamv6002.github.io/)!
+
+Curious? [Here's more about me!](https://gauthamv6002.github.io/)
 
 
 
