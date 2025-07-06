@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Gautham!
 
-I'm an engineer at [Toma (YC W24)](https://toma.com/), where I mostly build AI for car dealerships, and occasionally crack jokes or try to get better at smash bros. Outside work, I love building robots and am always up for a badminton rally.
+I'm an engineer at [Toma (YC W24)](https://toma.com/), where I mostly build AI for car dealerships, and occasionally crack jokes or try to get better at smash bros. Outside that, I love building robots and am always up for a badminton rally.
 
 
 Curious? [Here's more about me!](https://gauthamv6002.github.io/)
