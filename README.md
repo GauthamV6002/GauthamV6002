@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Gautham!
 
-I'm the co-founder of Kaaro, the AI workforce for rail. Before that, I was a founding engineer at Toma (YC W24), where I build voice AI for car dealerships. And when I'm not shipping, I'm always down for a badminton rally or a game of smash :)
+I'm the co-founder of Kaaro, the AI workforce for rail. Before that, I was a founding engineer at [Toma (YC W24)](https://toma.com/), where I build voice AI for car dealerships. And when I'm not shipping, I'm always down for a badminton rally or a game of smash :)
 
 
 Interested? [Here's more about me!](https://gautham.city/)
