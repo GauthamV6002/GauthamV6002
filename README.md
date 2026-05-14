@@ -1,9 +1,7 @@
 ## hi im gautham
 
-currently cofounding [kaaro](https://www.kaaro.ai/)
-previous code monkey at [toma](https://toma.com/)
-
-
+- currently cofounding @ [kaaro](https://www.kaaro.ai/) 
+- previous code monkey @ [toma](https://toma.com/)
 
 
 <!--
